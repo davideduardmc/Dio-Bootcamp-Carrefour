@@ -1,0 +1,28 @@
+								ABSTRAÇÃO
+
+
+		-> : Tópico, temas gerais.
+		-  : Respostas do tópico, complemento, ou função(oque a ideia do tópico realiza).
+		*  : Dúvidas sobre os tópicos. 
+		>  :subtópicos.
+
+
+
+-> Abtrair: processo que separa elementos e os observa(caracteristicas e propriedades)
+	
+-> Abstração: tirada do elemento da realidade.
+	
+	- 1 + 1 = 2
+
+	- X + X = Y ( x=1 e y= 2.x)
+
+-> Generalização: Reunião dos objetos de estudo, reunidos por similiaridade ou propriedades.
+
+	-> pontos essencias: diferentes tipos de mesa, porem todas são mesas.
+
+	-> caracteristicas: faculdade sistemas de matricula.
+		
+			- somente dados relevantes(s/trabalho etc) pontos essenciais.
+	
+
+-> linguagens de programação

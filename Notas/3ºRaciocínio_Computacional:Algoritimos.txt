@@ -1,0 +1,28 @@
+								ALGORITIMOS
+
+
+
+		-> : Tópico, temas gerais.
+		-  : Respostas do tópico, complemento, ou função(oque a ideia do tópico realiza).
+		*  : Dúvidas sobre os tópicos. 
+		>  :subtópicos.
+		
+
+
+-> Computador recebe, trasmite e armazena dados, quem faz o intermédio são os programas.
+
+	> Analíse: nela voce descreve os dados que voce precisa enviar e quais receber.
+	> Algoritimos: descreve problemas atraves de descrições(fluxograma,Pe etc).
+	> codificação: transformar algoritimos em codigo. 
+
+
+-> Como contruir um algoritimo:
+
+	- Entender o problemas a esr resolvido, especifico.
+	- Dados de Entrada.
+	- Calculos e operações, caso haja algum impeditivo.
+	- Definir dados de saída(caso haja a espera de algum).
+	- metódo de construção, teste e diagnostico.
+
+
+

@@ -1,0 +1,37 @@
+								ALGORITIMOS
+
+
+
+		-> : Tópico, temas gerais.
+		-  : Respostas do tópico, complemento, ou função(oque a ideia do tópico realiza).
+		*  : Dúvidas sobre os tópicos. 
+		>  :subtópicos.
+
+
+
+-> Conjunto de instruções ordenadas, sequencias, não ambíguas(sentido claro)
+ 
+	- executar uma tarefa.
+
+	> Receita de bolo.
+
+	> Captura de informações do ambiente e devolve processadas.
+	
+	> Sequencial por linha(cada linha um comando) 
+	 
+
+-> Refinamento de Ações:
+
+		--> ações Primitivas/Não primitivas:
+
+				- AP: não podem ser quebradas em menores.
+				- NP: podem ser dividias em menores.	 
+
+
+-> Como representar:
+
+	> Fluxograma, diagrama chapin e português estruturado.
+		
+		. fluxograma: simbolos e figuras para criar um caminhos de isntruções.
+		. diagrama: bom para representar a recursividade.
+		. pe: pseudo código.
