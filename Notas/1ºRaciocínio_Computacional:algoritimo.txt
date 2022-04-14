@@ -5,7 +5,7 @@
 		-> : Tópico, temas gerais.
 		-  : Respostas do tópico, complemento, ou função(oque a ideia do tópico realiza).
 		*  : Dúvidas sobre os tópicos. 
-		>  :subtópicos.
+		>  : subtópicos.
 
 
 
